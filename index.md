@@ -15,6 +15,7 @@ SNS
 
 - Twitter: [@visvirial](https://twitter.com/visvirial)
 - Facebook: [hyugam](https://www.facebook.com/hyugam/)
+- GitHub: [visvirial](https://github.com/visvirial)
 - LinkedIn: [Masahiko Hyuga](https://www.linkedin.com/in/masahiko-hyuga-2a51b2a5/)
 
 Sites
