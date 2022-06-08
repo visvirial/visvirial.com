@@ -26,7 +26,7 @@ Sites
 Resume
 ------
 
-https://gist.github.com/visvirial/f5e434a2b7f4d90bd5bcbd2572b0a9c1
+My resume is available [here](https://gist.github.com/visvirial/f5e434a2b7f4d90bd5bcbd2572b0a9c1).
 
 
 
