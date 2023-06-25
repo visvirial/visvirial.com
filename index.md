@@ -21,6 +21,7 @@ SNS
 Sites
 -----
 
+- [Note](https://note.com/visvirial/) (Japanese)
 - [Blog](https://blog.visvirial.com/) (Japanese)
 - [YouTube (Unfamiliar Science)](https://www.youtube.com/channel/UCpIZb3ER2bYR5yGjvptrmpA) (Japanese)
 
